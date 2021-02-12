@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    color: red;
+}
+
+#firsth2 {
+
+    text-align: left;
+    color: blue;
+}
+
+#secondh2 {
+
+    text-align: left;
+    color: gold;
+}
+    
+p {
+background-color: chartreuse;
+
+}
+
+#openpara {
+    background-color: hotpink;
+}
+#closepara {
+    background-color: indianred;
+}
+
+.lyrics {
+background-color: lightblue;
+}
