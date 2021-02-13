@@ -28,5 +28,15 @@ background-color: chartreuse;
 }
 
 .lyrics {
-background-color: ;
+background-color: gray
+}
+
+.section {
+    border: 5px outset black
+
+}
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 15px;
 }
